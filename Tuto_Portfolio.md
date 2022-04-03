@@ -152,3 +152,16 @@ yarn add react-router-dom
 npm i sass
 yarn add sass
 ```
+
+## Configuration de Prettier
+
+Création du fichier `.prettierrc` à la racine du dossier.
+
+```json
+{
+    "trailingComma":"es5",
+    "tabWidth": 2 ,
+    "semi": false,
+    "singleQuote": true
+}
+```
